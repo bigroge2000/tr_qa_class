@@ -1,4 +1,4 @@
-# Continous Integration and Continous Deployment
+# Continuous Integration and Continuous Deployment
 
 ![alt text](../imgs/Jenkins.jpg "dev team")
 
